@@ -4,3 +4,7 @@
   background-color: #159957;
   background-image: url(images/header.png)
 }
+
+.header-image {
+  box-shadow: 10px 10px 5px #ffffff;
+}
